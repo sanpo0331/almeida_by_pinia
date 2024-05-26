@@ -1,0 +1,34 @@
+[
+  {
+    "id": "d0101",
+    "name": "池内　祥子",
+    "medical": "med101",
+    "yobi": [0, 2, 4]
+  },
+  { "id": "d0102", "name": "石田　保", "medical": "med101", "yobi": [1, 3] },
+  {
+    "id": "d0201",
+    "name": "小川　啓介",
+    "medical": "med102",
+    "yobi": [0, 3, 4]
+  },
+  { "id": "d0202", "name": "福田　明", "medical": "med102", "yobi": [1, 2] },
+  { "id": "d0301", "name": "塚本　直輝", "medical": "med103", "yobi": [1, 3] },
+  { "id": "d0302", "name": "下口　健", "medical": "med103", "yobi": [0, 2, 4] },
+  { "id": "d0401", "name": "加藤　紘一", "medical": "med201", "yobi": [0] },
+  { "id": "d0402", "name": "野田　香織", "medical": "med201", "yobi": [1, 4] },
+  { "id": "d0403", "name": "大道　圭吾", "medical": "med201", "yobi": [2] },
+  { "id": "d0404", "name": "山田　和也", "medical": "med201", "yobi": [3] },
+  {
+    "id": "d0501",
+    "name": "山川　太郎",
+    "medical": "med301",
+    "yobi": [1, 2, 4]
+  },
+  { "id": "d0502", "name": "池本　毅", "medical": "med301", "yobi": [0, 3] },
+  { "id": "d0601", "name": "村井　努", "medical": "med302", "yobi": [0, 2, 4] },
+  { "id": "d0602", "name": "村田　康介", "medical": "med302", "yobi": [1, 3] },
+  { "id": "d0701", "name": "松田　梨乃", "medical": "med303", "yobi": [2, 4] },
+  { "id": "d0702", "name": "小野　千景", "medical": "med303", "yobi": [0] },
+  { "id": "d0703", "name": "鈴木　浩二", "medical": "med303", "yobi": [1, 3] }
+]
